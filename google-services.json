@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975902647403",
+    "project_id": "overwatch-ui-90b64",
+    "storage_bucket": "overwatch-ui-90b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975902647403:android:8b926a99a8544365467d2e",
+        "android_client_info": {
+          "package_name": "com.firebase.owUI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975902647403-mtitcu0fduofdg244e5area4o1ebl2f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3qXr2tNFKK6zvpyoyvpWLQPreqcn6ml0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975902647403-mtitcu0fduofdg244e5area4o1ebl2f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
